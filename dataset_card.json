@@ -1,0 +1,110 @@
+{
+  "dataset_info": {
+    "name": "GitaGPT Dataset — Bhagavad Gita Oracle Training Corpus",
+    "short_name": "gitagpt-dataset",
+    "version": "1.0.0",
+    "description": "A structured, multilingual dataset for building AI systems grounded in the Bhagavad Gita's 700 shlokas. Includes annotated verses, Q&A training pairs, problem-to-verse mappings, Sanskrit glossary, and fine-tuning ready JSONL files in Alpaca and ChatML formats.",
+    "homepage": "https://www.kaggle.com/datasets/alphabytecore/gitagpt-dataset",
+    "repository": "https://github.com/alphabytecore/gitagpt-dataset",
+    "paper": null,
+    "citation": "@dataset{gitagpt_dataset_2025, title={GitaGPT Dataset: Bhagavad Gita Oracle Training Corpus}, author={AlphaByteCore}, year={2025}, version={1.0.0}}",
+    "license": "cc-by-sa-4.0",
+    "task_categories": [
+      "text-generation",
+      "question-answering",
+      "text-retrieval",
+      "conversational"
+    ],
+    "task_ids": [
+      "open-domain-qa",
+      "dialogue-modeling",
+      "language-modeling",
+      "information-retrieval"
+    ],
+    "language": ["sa", "en", "hi"],
+    "language_details": {
+      "sa": "Sanskrit (Devanagari script + IAST transliteration)",
+      "en": "English",
+      "hi": "Hindi (Devanagari script)"
+    },
+    "pretty_name": "GitaGPT — Bhagavad Gita Oracle Dataset",
+    "tags": [
+      "bhagavad-gita",
+      "sanskrit",
+      "hindi",
+      "philosophy",
+      "spirituality",
+      "fine-tuning",
+      "rag",
+      "india",
+      "vedanta",
+      "krishna",
+      "slm",
+      "gitagpt",
+      "alphabytecore"
+    ]
+  },
+  "splits": {
+    "train": {
+      "file": "data/processed/finetune_chatml_format.jsonl",
+      "num_examples": 20,
+      "description": "Training Q&A pairs in ChatML format"
+    },
+    "retrieval_index": {
+      "file": "data/raw/key_verses.csv",
+      "num_examples": 17,
+      "description": "Annotated verse corpus for RAG retrieval"
+    },
+    "problem_mapping": {
+      "file": "data/processed/problem_verse_mapping.csv",
+      "num_examples": 30,
+      "description": "Problem keyword to verse mapping index"
+    }
+  },
+  "features": {
+    "qa_pairs": {
+      "qa_id": {"dtype": "string", "description": "Unique Q&A pair identifier"},
+      "category": {"dtype": "string", "description": "Problem category"},
+      "user_question": {"dtype": "string", "description": "Modern life question"},
+      "krishna_response": {"dtype": "string", "description": "Response in Krishna's voice with shloka"},
+      "verse_id": {"dtype": "string", "description": "Referenced Gita verse ID"},
+      "language": {"dtype": "string", "description": "en or hi"}
+    },
+    "key_verses": {
+      "verse_id": {"dtype": "string", "description": "BG_{chapter}_{verse} format"},
+      "sanskrit_devanagari": {"dtype": "string", "description": "Original Sanskrit text"},
+      "transliteration": {"dtype": "string", "description": "IAST Roman transliteration"},
+      "translation_english": {"dtype": "string", "description": "English translation"},
+      "translation_hindi": {"dtype": "string", "description": "Hindi translation"},
+      "modern_question_mapping": {"dtype": "string", "description": "Modern problems addressed"},
+      "difficulty_level": {"dtype": "string", "description": "foundational/intermediate/advanced"}
+    }
+  },
+  "statistics": {
+    "total_chapters": 18,
+    "total_gita_verses": 700,
+    "annotated_verses_v1": 17,
+    "qa_pairs_v1": 20,
+    "problem_mappings_v1": 30,
+    "glossary_terms_v1": 20,
+    "languages": 3,
+    "fine_tune_formats": 2,
+    "problem_categories": 9
+  },
+  "intended_uses": [
+    "Fine-tuning SLMs (Phi-3, Gemma, Mistral, LLaMA) for spiritual Q&A",
+    "Building RAG pipelines for Gita-grounded AI",
+    "Semantic search across Bhagavad Gita shlokas",
+    "Multilingual (EN/HI/SA) chatbot development",
+    "Academic NLP research on Sanskrit/Hindi texts",
+    "Educational tools for Gita study"
+  ],
+  "out_of_scope_uses": [
+    "Generating fake or hallucinated scripture",
+    "Replacing professional medical, legal, or mental health advice",
+    "Promoting violence using religious authority",
+    "Discriminatory applications"
+  ],
+  "dataset_card_authors": ["AlphaByteCore"],
+  "dataset_card_contact": "alphabytecore@gmail.com"
+}

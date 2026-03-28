@@ -1,0 +1,85 @@
+id: alphabytecore/gitagpt-dataset
+title: "GitaGPT Dataset — Bhagavad Gita Oracle Training Corpus"
+subtitle: "Structured multilingual dataset for fine-tuning AI oracles grounded in the Bhagavad Gita (Sanskrit/English/Hindi)"
+description: |
+  A comprehensive, production-ready dataset for building AI systems grounded in the Bhagavad Gita's 700 shlokas.
+  
+  Built for GitaGPT by AlphaByteCore — an AI life guidance oracle that maps modern problems to authentic Gita verses and responds in Krishna's voice.
+  
+  **What's inside:**
+  - 18 chapters with Sanskrit names, English/Hindi summaries, themes, and modern mappings
+  - 17 key shlokas fully annotated (targeting 108) with Sanskrit, transliteration, EN/HI translations, word meanings, purport, and modern question mappings
+  - 20 Q&A training pairs: real modern questions → Krishna-voiced responses with actual shlokas
+  - Fine-tuning ready JSONL in both Alpaca/Instruction format and ChatML format
+  - 30 problem-to-verse mappings for RAG retrieval
+  - 20-term Sanskrit philosophical glossary with modern equivalents
+  - Complete documentation: Training guide, schema reference, data sources, ethical guidelines
+
+  **Languages:** Sanskrit (Devanagari) · English · Hindi
+  **Formats:** CSV · JSON · JSONL
+  **Use Cases:** Fine-tuning, RAG, Semantic Search, Chatbots, Education
+
+licenses:
+  - cc-by-sa-4.0
+
+keywords:
+  - bhagavad-gita
+  - sanskrit
+  - hindi
+  - philosophy
+  - spirituality
+  - fine-tuning
+  - rag
+  - india
+  - vedanta
+  - krishna
+  - nlp
+  - llm
+  - small-language-model
+  - gitagpt
+  - alphabytecore
+  - multilingual
+  - religion
+  - yoga
+
+collaborators:
+  - username: alphabytecore
+    role: owner
+
+resources:
+  - path: data/raw/chapters.csv
+    description: "18 chapters with Sanskrit names, EN/HI summaries, themes, and modern mappings"
+  - path: data/raw/chapters.json
+    description: "Chapters metadata in JSON format"
+  - path: data/raw/key_verses.csv
+    description: "Key shlokas with full Sanskrit, transliteration, EN/HI translations, word meanings, purport, modern mappings"
+  - path: data/raw/key_verses.json
+    description: "Key verses in JSON format"
+  - path: data/raw/concept_glossary.csv
+    description: "Sanskrit philosophical terms with modern equivalents"
+  - path: data/raw/concept_glossary.json
+    description: "Glossary in JSON format"
+  - path: data/qa_pairs/qa_training_pairs.csv
+    description: "Q&A training pairs: modern questions mapped to Krishna-voiced Gita responses"
+  - path: data/qa_pairs/qa_training_pairs.json
+    description: "Q&A pairs in JSON format"
+  - path: data/processed/finetune_instruction_format.jsonl
+    description: "Fine-tuning data in Alpaca/LLaMA instruction format"
+  - path: data/processed/finetune_chatml_format.jsonl
+    description: "Fine-tuning data in ChatML format (Mistral/GPT-4/Phi-3 compatible)"
+  - path: data/processed/problem_verse_mapping.csv
+    description: "Modern problem keywords mapped to primary Gita verses for RAG"
+  - path: data/processed/problem_verse_mapping.json
+    description: "Problem-verse mapping in JSON format"
+  - path: data/dataset_stats.json
+    description: "Auto-generated dataset statistics and metadata"
+  - path: docs/DATA_SOURCES.md
+    description: "External data sources with direct download links"
+  - path: docs/TRAINING_GUIDE.md
+    description: "Step-by-step fine-tuning guide for SLMs"
+  - path: docs/SCHEMA_REFERENCE.md
+    description: "Field-by-field schema documentation"
+  - path: docs/ETHICAL_GUIDELINES.md
+    description: "Responsible use guidelines"
+  - path: dataset_card.json
+    description: "HuggingFace-compatible dataset card metadata"

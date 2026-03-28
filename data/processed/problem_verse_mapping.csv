@@ -1,0 +1,31 @@
+problem_id,problem_category,problem_keywords,problem_description,primary_verse,secondary_verses,yoga_path,chapter_focus
+P001,anxiety,"anxiety, anxious, worry, worried, overthinking, rumination, racing thoughts",General anxiety and excessive worrying about the future,BG_6_35,"BG_2_47,BG_2_14,BG_6_5",Dhyana Yoga,6
+P002,anxiety,"fear of failure, failing, scared to try, fear of outcome, exam stress, performance anxiety",Fear of failure preventing action or causing stress,BG_2_47,"BG_3_30,BG_18_66",Karma Yoga,2
+P003,anxiety,"fear of death, mortality, dying, afraid of death, death anxiety",Fear of one's own death or the death of loved ones,BG_2_20,"BG_2_19,BG_2_23,BG_8_5",Sankhya Yoga,2
+P004,anxiety,"panic attack, dread, terror, phobia, paralyzed by fear",Acute fear states and panic,BG_18_66,"BG_4_10,BG_9_22",Bhakti Yoga,18
+P005,grief,"grief, loss, death of loved one, bereaved, mourning, losing someone, someone died",Grief after loss of a loved one,BG_2_20,"BG_2_13,BG_2_14,BG_8_5",Sankhya Yoga,2
+P006,grief,"suffering, pain, unbearable, hurt, anguish, agony, sorrow, heartbroken",Acute emotional or psychological suffering,BG_2_14,"BG_6_7,BG_12_13",Sankhya Yoga,2
+P007,grief,"depression, depressed, hopeless, no hope, dark, meaningless, empty, void","Depression, hopelessness, emotional emptiness",BG_2_14,"BG_4_7,BG_6_5,BG_18_66",Dhyana Yoga,6
+P008,career,"career, job, work, profession, occupation, career change, quit job, change career","Career decisions, job dissatisfaction, career change dilemmas",BG_2_47,"BG_3_8,BG_3_35,BG_18_45",Karma Yoga,3
+P009,career,"no meaning, meaningless work, purposeless, empty work, hate my job, bored at work",Work that feels meaningless or purposeless,BG_3_21,"BG_3_9,BG_9_27",Karma Yoga,3
+P010,career,"procrastination, procrastinate, lazy, can't start, delay, avoid, putting off",Procrastination and difficulty starting tasks,BG_3_27,"BG_2_47,BG_3_8",Karma Yoga,3
+P011,career,"burnout, exhausted, tired, overworked, stressed at work, work life balance",Professional burnout and overwork,BG_2_70,"BG_6_17,BG_2_14",Karma Yoga,2
+P012,career,"success, failure, winning, losing, competition, defeated, lost competition",Dealing with success and failure,BG_2_47,"BG_2_38,BG_18_78",Karma Yoga,2
+P013,relationships,"betrayal, betrayed, cheated, lied to, broken trust, backstabbed, deceived","Betrayal by friend, partner, or colleague",BG_2_62,"BG_16_3,BG_12_13",Sankhya Yoga,2
+P014,relationships,"anger, angry, rage, furious, temper, explosive, aggressive, violent",Uncontrolled anger and rage,BG_2_63,"BG_2_62,BG_16_21",Sankhya Yoga,2
+P015,relationships,"forgiveness, forgive, cannot forgive, grudge, resentment, bitterness, hatred","Inability to forgive, holding grudges",BG_12_13,"BG_16_3,BG_2_62",Bhakti Yoga,12
+P016,relationships,"family pressure, family expectations, parents want, family conflict, duty to family",Conflict between personal desires and family expectations,BG_18_66,"BG_2_47,BG_3_35",Moksha Sanyasa Yoga,18
+P017,relationships,"breakup, divorce, relationship end, heartbreak, lost love, separation, rejection","End of romantic relationship, heartbreak",BG_2_14,"BG_2_62,BG_6_5",Sankhya Yoga,2
+P018,relationships,"jealous, jealousy, envy, envious, comparison, comparing, insecure","Jealousy, envy, constant comparison with others",BG_12_13,"BG_3_35,BG_6_32",Bhakti Yoga,12
+P019,mind,"inner peace, calm, peace of mind, serenity, tranquility, stillness, chaos",Seeking inner peace amid outer chaos,BG_6_5,"BG_2_70,BG_6_7",Dhyana Yoga,6
+P020,mind,"self-doubt, imposter, not good enough, self-worth, confidence, insecurity",Self-doubt and low self-confidence,BG_6_5,"BG_3_27,BG_11_33",Dhyana Yoga,6
+P021,mind,"meditation, meditate, mind control, focus, concentrate, distracted, attention","Meditation practice, controlling wandering mind",BG_6_35,"BG_6_10,BG_6_19",Dhyana Yoga,6
+P022,mind,"ego, pride, arrogant, humility, boastful, self-important, ego problems","Ego, pride, arrogance issues",BG_3_27,"BG_16_4,BG_12_13",Karma Yoga,3
+P023,mind,"addiction, addicted, habit, bad habit, substance, alcohol, drugs, compulsion",Addictions and compulsive behaviors,BG_2_62,"BG_2_63,BG_6_5",Sankhya Yoga,2
+P024,purpose,"life purpose, purpose, meaning of life, why am I here, directionless, lost",Searching for life's purpose and meaning,BG_4_7,"BG_3_35,BG_18_46",Jnana Karma Sanyasa Yoga,4
+P025,purpose,"dharma, duty, what is my duty, role in life, what should I do",Understanding one's duty and role in life,BG_3_35,"BG_18_47,BG_2_31",Karma Yoga,3
+P026,spirituality,"God, faith, belief, religion, spiritual, atheist, doubt, does God exist","Questions about God, faith, and spirituality",BG_9_22,"BG_7_21,BG_4_11",Raja Vidya Raja Guhya Yoga,9
+P027,spirituality,"unworthy, sinful, sins, mistakes, past mistakes, guilt, shame, redemption",Feeling unworthy of divine grace due to past mistakes,BG_18_66,"BG_9_30,BG_4_36",Moksha Sanyasa Yoga,18
+P028,spirituality,"surrender, let go, helpless, cannot control, give up, trust God, acceptance",Learning to surrender and let go of control,BG_18_66,"BG_9_22,BG_3_30",Moksha Sanyasa Yoga,18
+P029,leadership,"leadership, leader, manage team, management, authority, respect, influence",Leadership challenges and team management,BG_3_21,"BG_3_25,BG_18_78",Karma Yoga,3
+P030,leadership,"injustice, unfair, wrong, evil, corruption, society problems, world problems",Dealing with injustice and evil in the world,BG_4_7,"BG_4_8,BG_3_21",Jnana Karma Sanyasa Yoga,4

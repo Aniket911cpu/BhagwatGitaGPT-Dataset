@@ -1,0 +1,202 @@
+[
+  {
+    "term_sanskrit": "Dharma",
+    "devanagari": "धर्म",
+    "transliteration": "dharma",
+    "primary_meaning": "duty, righteousness, cosmic order",
+    "extended_meaning": "The moral law governing individual and cosmic existence. One's Dharma is the duty appropriate to one's nature, role, and stage of life. When Dharma declines, the universe is in peril.",
+    "modern_equivalent": "purpose, integrity, moral duty",
+    "appears_in_chapters": "1,2,3,4,11,16,18",
+    "key_verse": "BG_4_7"
+  },
+  {
+    "term_sanskrit": "Karma",
+    "devanagari": "कर्म",
+    "transliteration": "karma",
+    "primary_meaning": "action, deed, the law of cause and effect",
+    "extended_meaning": "Every action creates an impression that shapes future experience. But karma is not fate — it is the natural consequence of conscious and unconscious actions. The Gita teaches nishkama karma: action without selfish attachment to results.",
+    "modern_equivalent": "cause and effect, consequences, moral responsibility",
+    "appears_in_chapters": "2,3,4,5,6,8,18",
+    "key_verse": "BG_2_47"
+  },
+  {
+    "term_sanskrit": "Atman",
+    "devanagari": "आत्मन्",
+    "transliteration": "atman",
+    "primary_meaning": "the eternal self, the individual soul",
+    "extended_meaning": "The Atman is the consciousness that witnesses all experience. It is not the body, not the mind, not the ego — it is the pure awareness behind all these. It is identical in nature to Brahman (the universal consciousness).",
+    "modern_equivalent": "true self, consciousness, soul",
+    "appears_in_chapters": "2,6,13,15",
+    "key_verse": "BG_2_20"
+  },
+  {
+    "term_sanskrit": "Brahman",
+    "devanagari": "ब्रह्मन्",
+    "transliteration": "brahman",
+    "primary_meaning": "the ultimate, formless, infinite reality",
+    "extended_meaning": "The absolute, eternal, unchanging reality underlying all existence. Brahman is not a personal God but the ground of being itself. The Gita's Vedantic teaching is that the individual Atman and the universal Brahman are ultimately one.",
+    "modern_equivalent": "ultimate reality, God, the ground of being, universal consciousness",
+    "appears_in_chapters": "4,5,7,8,10,13,14,15,18",
+    "key_verse": "BG_8_3"
+  },
+  {
+    "term_sanskrit": "Maya",
+    "devanagari": "माया",
+    "transliteration": "maya",
+    "primary_meaning": "illusion, the power of divine creative energy that creates apparent multiplicity",
+    "extended_meaning": "Maya is the cosmic illusion that causes beings to see separation where there is unity, temporality where there is eternity, and matter as the ultimate reality. Not a deception — more like a divine dream that feels real while you are in it.",
+    "modern_equivalent": "illusion, the matrix, conditioned perception, forgetting our true nature",
+    "appears_in_chapters": "4,7,14,18",
+    "key_verse": "BG_7_14"
+  },
+  {
+    "term_sanskrit": "Yoga",
+    "devanagari": "योग",
+    "transliteration": "yoga",
+    "primary_meaning": "union, method, path",
+    "extended_meaning": "In the Gita, yoga means any systematic path toward union with the divine or liberation from suffering. The Gita presents multiple yogas: Jnana (knowledge), Bhakti (devotion), Karma (action), and Raja/Dhyana (meditation).",
+    "modern_equivalent": "path, method, practice system",
+    "appears_in_chapters": "all 18",
+    "key_verse": "BG_2_48"
+  },
+  {
+    "term_sanskrit": "Ahimsa",
+    "devanagari": "अहिंसा",
+    "transliteration": "ahimsa",
+    "primary_meaning": "non-violence, non-harm",
+    "extended_meaning": "The principle of not causing harm to any living being in thought, word, or deed. One of the foundational divine qualities listed by Krishna in Chapter 16. The paradox: the Gita teaches ahimsa while also instructing Arjuna to fight — because true ahimsa includes fighting injustice.",
+    "modern_equivalent": "non-violence, compassion, do no harm",
+    "appears_in_chapters": "10,13,16,17",
+    "key_verse": "BG_16_2"
+  },
+  {
+    "term_sanskrit": "Sattva",
+    "devanagari": "सत्त्व",
+    "transliteration": "sattva",
+    "primary_meaning": "clarity, purity, goodness",
+    "extended_meaning": "One of the three gunas (modes of nature). Sattva is characterized by clarity, knowledge, harmony, and virtue. When sattva predominates, a person thinks clearly, acts ethically, and is peaceful. Food, environment, and association all affect sattva.",
+    "modern_equivalent": "clarity, purity, mindfulness, high consciousness",
+    "appears_in_chapters": "14,17,18",
+    "key_verse": "BG_14_6"
+  },
+  {
+    "term_sanskrit": "Rajas",
+    "devanagari": "रजस्",
+    "transliteration": "rajas",
+    "primary_meaning": "passion, activity, restlessness",
+    "extended_meaning": "The mode of passion and activity. Rajas drives ambition, desire, restlessness, and attachment to outcomes. In balance, rajas is productive energy. In excess, it creates greed, aggression, and burnout.",
+    "modern_equivalent": "ambition, hyperactivity, hustle culture, type-A personality",
+    "appears_in_chapters": "14,17,18",
+    "key_verse": "BG_14_7"
+  },
+  {
+    "term_sanskrit": "Tamas",
+    "devanagari": "तमस्",
+    "transliteration": "tamas",
+    "primary_meaning": "inertia, darkness, ignorance",
+    "extended_meaning": "The mode of ignorance, inertia, and darkness. Tamas leads to delusion, laziness, excessive sleep, and resistance to growth. Tamasic consciousness cannot perceive reality clearly and falls into depression and stagnation.",
+    "modern_equivalent": "laziness, depression, unconsciousness, stagnation",
+    "appears_in_chapters": "14,17,18",
+    "key_verse": "BG_14_8"
+  },
+  {
+    "term_sanskrit": "Nishkama Karma",
+    "devanagari": "निष्काम कर्म",
+    "transliteration": "nishkama karma",
+    "primary_meaning": "desireless action, action without attachment to results",
+    "extended_meaning": "The Gita's central practical teaching. Act fully, give your best, do your duty — but release attachment to the outcome. This is not indifference; it is the highest form of engagement. Like a surgeon who must operate perfectly but cannot be attached to whether the patient lives.",
+    "modern_equivalent": "flow state, process over outcome, servant leadership, unconditional service",
+    "appears_in_chapters": "2,3,4,5,18",
+    "key_verse": "BG_2_47"
+  },
+  {
+    "term_sanskrit": "Sthitaprajna",
+    "devanagari": "स्थितप्रज्ञ",
+    "transliteration": "sthitaprajna",
+    "primary_meaning": "the person of steady wisdom, one whose consciousness is stable in all circumstances",
+    "extended_meaning": "The Gita's ideal human type. The sthitaprajna is not reactive — they remain inwardly stable whether praised or blamed, in pleasure or pain, in abundance or loss. This is not emotional numbness; it is rooted presence.",
+    "modern_equivalent": "stoic sage, emotionally resilient, mentally strong, non-reactive",
+    "appears_in_chapters": "2",
+    "key_verse": "BG_2_55"
+  },
+  {
+    "term_sanskrit": "Ahankara",
+    "devanagari": "अहंकार",
+    "transliteration": "ahankara",
+    "primary_meaning": "ego, the false identification with body and mind",
+    "extended_meaning": "The 'I-maker' — the part of the mind that creates the sense of a separate, fixed self. Ahankara is not inherently bad (it allows functioning in the world) but becomes destructive when we over-identify with it and lose sight of our deeper nature.",
+    "modern_equivalent": "ego, false self, identity attachment, pride",
+    "appears_in_chapters": "3,7,13,16,18",
+    "key_verse": "BG_3_27"
+  },
+  {
+    "term_sanskrit": "Moksha",
+    "devanagari": "मोक्ष",
+    "transliteration": "moksha",
+    "primary_meaning": "liberation, freedom from the cycle of birth and death",
+    "extended_meaning": "The ultimate goal of Vedantic spirituality — liberation from the endless cycle of samsara (birth, death, rebirth). Achieved through Self-knowledge, devotion, and/or selfless action. Not a place but a state of being: the direct recognition of one's true nature as infinite consciousness.",
+    "modern_equivalent": "enlightenment, liberation, freedom, self-realization, nirvana",
+    "appears_in_chapters": "2,4,5,8,13,14,18",
+    "key_verse": "BG_18_66"
+  },
+  {
+    "term_sanskrit": "Bhakti",
+    "devanagari": "भक्ति",
+    "transliteration": "bhakti",
+    "primary_meaning": "devotion, love for the divine",
+    "extended_meaning": "The path of love and devotion to a personal God. Krishna declares in Chapter 12 that bhakti is the most accessible and highest path. Bhakti does not require intellectual understanding — it requires a loving heart turned toward the divine.",
+    "modern_equivalent": "devotion, unconditional love, worship, prayer",
+    "appears_in_chapters": "9,11,12,18",
+    "key_verse": "BG_9_22"
+  },
+  {
+    "term_sanskrit": "Sannyasa",
+    "devanagari": "संन्यास",
+    "transliteration": "sannyasa",
+    "primary_meaning": "renunciation",
+    "extended_meaning": "The renunciation of the fruits of action, not necessarily action itself. The Gita teaches inner sannyasa — one can live fully in the world while internally renouncing all claims to results. The renunciate and the active yogi can both attain liberation.",
+    "modern_equivalent": "inner detachment, non-clinging, minimalism of the mind",
+    "appears_in_chapters": "3,4,5,6,18",
+    "key_verse": "BG_5_3"
+  },
+  {
+    "term_sanskrit": "Vairagya",
+    "devanagari": "वैराग्य",
+    "transliteration": "vairagya",
+    "primary_meaning": "dispassion, non-attachment",
+    "extended_meaning": "The quality of being unattached to sensory experience, pleasures, and outcomes. Not hatred of the world, but freedom from dependency on the world for one's inner state. Krishna cites vairagya alongside abhyasa (practice) as the two means of controlling the mind.",
+    "modern_equivalent": "non-attachment, inner freedom, not being hooked, equanimity",
+    "appears_in_chapters": "6,13",
+    "key_verse": "BG_6_35"
+  },
+  {
+    "term_sanskrit": "Abhyasa",
+    "devanagari": "अभ्यास",
+    "transliteration": "abhyasa",
+    "primary_meaning": "practice, repeated effort, spiritual discipline",
+    "extended_meaning": "Consistent, repeated practice as the means of training the mind and purifying consciousness. Without abhyasa, wisdom remains theoretical. With abhyasa, it becomes lived reality. The Gita places abhyasa alongside vairagya as the cure for the restless mind.",
+    "modern_equivalent": "practice, discipline, consistency, training, daily habits",
+    "appears_in_chapters": "6,12",
+    "key_verse": "BG_6_35"
+  },
+  {
+    "term_sanskrit": "Yajna",
+    "devanagari": "यज्ञ",
+    "transliteration": "yajna",
+    "primary_meaning": "sacrifice, offering, selfless action as worship",
+    "extended_meaning": "Originally a Vedic fire ritual, yajna in the Gita is expanded to mean any action performed as an offering — as a sacred gift rather than a transaction. When work becomes yajna, it purifies both the worker and the world.",
+    "modern_equivalent": "service, giving, vocation as calling, work as worship",
+    "appears_in_chapters": "3,4,9,18",
+    "key_verse": "BG_3_9"
+  },
+  {
+    "term_sanskrit": "Gunas",
+    "devanagari": "गुण",
+    "transliteration": "gunas",
+    "primary_meaning": "the three modes/qualities of material nature: sattva, rajas, tamas",
+    "extended_meaning": "The three fundamental forces that compose all of material existence — clarity (sattva), passion (rajas), and inertia (tamas). Everything in nature, including the human mind, food, and action, is a mixture of these three. Liberation comes from transcending all three.",
+    "modern_equivalent": "personality modes, states of consciousness, psychological patterns",
+    "appears_in_chapters": "14,15,17,18",
+    "key_verse": "BG_14_5"
+  }
+]

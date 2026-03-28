@@ -1,0 +1,302 @@
+[
+  {
+    "problem_id": "P001",
+    "problem_category": "anxiety",
+    "problem_keywords": "anxiety, anxious, worry, worried, overthinking, rumination, racing thoughts",
+    "problem_description": "General anxiety and excessive worrying about the future",
+    "primary_verse": "BG_6_35",
+    "secondary_verses": "BG_2_47,BG_2_14,BG_6_5",
+    "yoga_path": "Dhyana Yoga",
+    "chapter_focus": 6
+  },
+  {
+    "problem_id": "P002",
+    "problem_category": "anxiety",
+    "problem_keywords": "fear of failure, failing, scared to try, fear of outcome, exam stress, performance anxiety",
+    "problem_description": "Fear of failure preventing action or causing stress",
+    "primary_verse": "BG_2_47",
+    "secondary_verses": "BG_3_30,BG_18_66",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P003",
+    "problem_category": "anxiety",
+    "problem_keywords": "fear of death, mortality, dying, afraid of death, death anxiety",
+    "problem_description": "Fear of one's own death or the death of loved ones",
+    "primary_verse": "BG_2_20",
+    "secondary_verses": "BG_2_19,BG_2_23,BG_8_5",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P004",
+    "problem_category": "anxiety",
+    "problem_keywords": "panic attack, dread, terror, phobia, paralyzed by fear",
+    "problem_description": "Acute fear states and panic",
+    "primary_verse": "BG_18_66",
+    "secondary_verses": "BG_4_10,BG_9_22",
+    "yoga_path": "Bhakti Yoga",
+    "chapter_focus": 18
+  },
+  {
+    "problem_id": "P005",
+    "problem_category": "grief",
+    "problem_keywords": "grief, loss, death of loved one, bereaved, mourning, losing someone, someone died",
+    "problem_description": "Grief after loss of a loved one",
+    "primary_verse": "BG_2_20",
+    "secondary_verses": "BG_2_13,BG_2_14,BG_8_5",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P006",
+    "problem_category": "grief",
+    "problem_keywords": "suffering, pain, unbearable, hurt, anguish, agony, sorrow, heartbroken",
+    "problem_description": "Acute emotional or psychological suffering",
+    "primary_verse": "BG_2_14",
+    "secondary_verses": "BG_6_7,BG_12_13",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P007",
+    "problem_category": "grief",
+    "problem_keywords": "depression, depressed, hopeless, no hope, dark, meaningless, empty, void",
+    "problem_description": "Depression, hopelessness, emotional emptiness",
+    "primary_verse": "BG_2_14",
+    "secondary_verses": "BG_4_7,BG_6_5,BG_18_66",
+    "yoga_path": "Dhyana Yoga",
+    "chapter_focus": 6
+  },
+  {
+    "problem_id": "P008",
+    "problem_category": "career",
+    "problem_keywords": "career, job, work, profession, occupation, career change, quit job, change career",
+    "problem_description": "Career decisions, job dissatisfaction, career change dilemmas",
+    "primary_verse": "BG_2_47",
+    "secondary_verses": "BG_3_8,BG_3_35,BG_18_45",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 3
+  },
+  {
+    "problem_id": "P009",
+    "problem_category": "career",
+    "problem_keywords": "no meaning, meaningless work, purposeless, empty work, hate my job, bored at work",
+    "problem_description": "Work that feels meaningless or purposeless",
+    "primary_verse": "BG_3_21",
+    "secondary_verses": "BG_3_9,BG_9_27",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 3
+  },
+  {
+    "problem_id": "P010",
+    "problem_category": "career",
+    "problem_keywords": "procrastination, procrastinate, lazy, can't start, delay, avoid, putting off",
+    "problem_description": "Procrastination and difficulty starting tasks",
+    "primary_verse": "BG_3_27",
+    "secondary_verses": "BG_2_47,BG_3_8",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 3
+  },
+  {
+    "problem_id": "P011",
+    "problem_category": "career",
+    "problem_keywords": "burnout, exhausted, tired, overworked, stressed at work, work life balance",
+    "problem_description": "Professional burnout and overwork",
+    "primary_verse": "BG_2_70",
+    "secondary_verses": "BG_6_17,BG_2_14",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P012",
+    "problem_category": "career",
+    "problem_keywords": "success, failure, winning, losing, competition, defeated, lost competition",
+    "problem_description": "Dealing with success and failure",
+    "primary_verse": "BG_2_47",
+    "secondary_verses": "BG_2_38,BG_18_78",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P013",
+    "problem_category": "relationships",
+    "problem_keywords": "betrayal, betrayed, cheated, lied to, broken trust, backstabbed, deceived",
+    "problem_description": "Betrayal by friend, partner, or colleague",
+    "primary_verse": "BG_2_62",
+    "secondary_verses": "BG_16_3,BG_12_13",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P014",
+    "problem_category": "relationships",
+    "problem_keywords": "anger, angry, rage, furious, temper, explosive, aggressive, violent",
+    "problem_description": "Uncontrolled anger and rage",
+    "primary_verse": "BG_2_63",
+    "secondary_verses": "BG_2_62,BG_16_21",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P015",
+    "problem_category": "relationships",
+    "problem_keywords": "forgiveness, forgive, cannot forgive, grudge, resentment, bitterness, hatred",
+    "problem_description": "Inability to forgive, holding grudges",
+    "primary_verse": "BG_12_13",
+    "secondary_verses": "BG_16_3,BG_2_62",
+    "yoga_path": "Bhakti Yoga",
+    "chapter_focus": 12
+  },
+  {
+    "problem_id": "P016",
+    "problem_category": "relationships",
+    "problem_keywords": "family pressure, family expectations, parents want, family conflict, duty to family",
+    "problem_description": "Conflict between personal desires and family expectations",
+    "primary_verse": "BG_18_66",
+    "secondary_verses": "BG_2_47,BG_3_35",
+    "yoga_path": "Moksha Sanyasa Yoga",
+    "chapter_focus": 18
+  },
+  {
+    "problem_id": "P017",
+    "problem_category": "relationships",
+    "problem_keywords": "breakup, divorce, relationship end, heartbreak, lost love, separation, rejection",
+    "problem_description": "End of romantic relationship, heartbreak",
+    "primary_verse": "BG_2_14",
+    "secondary_verses": "BG_2_62,BG_6_5",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P018",
+    "problem_category": "relationships",
+    "problem_keywords": "jealous, jealousy, envy, envious, comparison, comparing, insecure",
+    "problem_description": "Jealousy, envy, constant comparison with others",
+    "primary_verse": "BG_12_13",
+    "secondary_verses": "BG_3_35,BG_6_32",
+    "yoga_path": "Bhakti Yoga",
+    "chapter_focus": 12
+  },
+  {
+    "problem_id": "P019",
+    "problem_category": "mind",
+    "problem_keywords": "inner peace, calm, peace of mind, serenity, tranquility, stillness, chaos",
+    "problem_description": "Seeking inner peace amid outer chaos",
+    "primary_verse": "BG_6_5",
+    "secondary_verses": "BG_2_70,BG_6_7",
+    "yoga_path": "Dhyana Yoga",
+    "chapter_focus": 6
+  },
+  {
+    "problem_id": "P020",
+    "problem_category": "mind",
+    "problem_keywords": "self-doubt, imposter, not good enough, self-worth, confidence, insecurity",
+    "problem_description": "Self-doubt and low self-confidence",
+    "primary_verse": "BG_6_5",
+    "secondary_verses": "BG_3_27,BG_11_33",
+    "yoga_path": "Dhyana Yoga",
+    "chapter_focus": 6
+  },
+  {
+    "problem_id": "P021",
+    "problem_category": "mind",
+    "problem_keywords": "meditation, meditate, mind control, focus, concentrate, distracted, attention",
+    "problem_description": "Meditation practice, controlling wandering mind",
+    "primary_verse": "BG_6_35",
+    "secondary_verses": "BG_6_10,BG_6_19",
+    "yoga_path": "Dhyana Yoga",
+    "chapter_focus": 6
+  },
+  {
+    "problem_id": "P022",
+    "problem_category": "mind",
+    "problem_keywords": "ego, pride, arrogant, humility, boastful, self-important, ego problems",
+    "problem_description": "Ego, pride, arrogance issues",
+    "primary_verse": "BG_3_27",
+    "secondary_verses": "BG_16_4,BG_12_13",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 3
+  },
+  {
+    "problem_id": "P023",
+    "problem_category": "mind",
+    "problem_keywords": "addiction, addicted, habit, bad habit, substance, alcohol, drugs, compulsion",
+    "problem_description": "Addictions and compulsive behaviors",
+    "primary_verse": "BG_2_62",
+    "secondary_verses": "BG_2_63,BG_6_5",
+    "yoga_path": "Sankhya Yoga",
+    "chapter_focus": 2
+  },
+  {
+    "problem_id": "P024",
+    "problem_category": "purpose",
+    "problem_keywords": "life purpose, purpose, meaning of life, why am I here, directionless, lost",
+    "problem_description": "Searching for life's purpose and meaning",
+    "primary_verse": "BG_4_7",
+    "secondary_verses": "BG_3_35,BG_18_46",
+    "yoga_path": "Jnana Karma Sanyasa Yoga",
+    "chapter_focus": 4
+  },
+  {
+    "problem_id": "P025",
+    "problem_category": "purpose",
+    "problem_keywords": "dharma, duty, what is my duty, role in life, what should I do",
+    "problem_description": "Understanding one's duty and role in life",
+    "primary_verse": "BG_3_35",
+    "secondary_verses": "BG_18_47,BG_2_31",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 3
+  },
+  {
+    "problem_id": "P026",
+    "problem_category": "spirituality",
+    "problem_keywords": "God, faith, belief, religion, spiritual, atheist, doubt, does God exist",
+    "problem_description": "Questions about God, faith, and spirituality",
+    "primary_verse": "BG_9_22",
+    "secondary_verses": "BG_7_21,BG_4_11",
+    "yoga_path": "Raja Vidya Raja Guhya Yoga",
+    "chapter_focus": 9
+  },
+  {
+    "problem_id": "P027",
+    "problem_category": "spirituality",
+    "problem_keywords": "unworthy, sinful, sins, mistakes, past mistakes, guilt, shame, redemption",
+    "problem_description": "Feeling unworthy of divine grace due to past mistakes",
+    "primary_verse": "BG_18_66",
+    "secondary_verses": "BG_9_30,BG_4_36",
+    "yoga_path": "Moksha Sanyasa Yoga",
+    "chapter_focus": 18
+  },
+  {
+    "problem_id": "P028",
+    "problem_category": "spirituality",
+    "problem_keywords": "surrender, let go, helpless, cannot control, give up, trust God, acceptance",
+    "problem_description": "Learning to surrender and let go of control",
+    "primary_verse": "BG_18_66",
+    "secondary_verses": "BG_9_22,BG_3_30",
+    "yoga_path": "Moksha Sanyasa Yoga",
+    "chapter_focus": 18
+  },
+  {
+    "problem_id": "P029",
+    "problem_category": "leadership",
+    "problem_keywords": "leadership, leader, manage team, management, authority, respect, influence",
+    "problem_description": "Leadership challenges and team management",
+    "primary_verse": "BG_3_21",
+    "secondary_verses": "BG_3_25,BG_18_78",
+    "yoga_path": "Karma Yoga",
+    "chapter_focus": 3
+  },
+  {
+    "problem_id": "P030",
+    "problem_category": "leadership",
+    "problem_keywords": "injustice, unfair, wrong, evil, corruption, society problems, world problems",
+    "problem_description": "Dealing with injustice and evil in the world",
+    "primary_verse": "BG_4_7",
+    "secondary_verses": "BG_4_8,BG_3_21",
+    "yoga_path": "Jnana Karma Sanyasa Yoga",
+    "chapter_focus": 4
+  }
+]

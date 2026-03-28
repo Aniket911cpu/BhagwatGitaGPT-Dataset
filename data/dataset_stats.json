@@ -1,0 +1,99 @@
+{
+  "dataset_name": "GitaGPT: Bhagavad Gita Oracle Dataset",
+  "version": "1.0.0",
+  "created_by": "AlphaByteCore",
+  "purpose": "Fine-tuning and RAG for GitaGPT — an AI oracle grounded in the Bhagavad Gita",
+  "files": {
+    "data/raw/chapters.csv": {
+      "description": "18 chapters with Sanskrit names, summaries in EN/HI, themes, and modern mappings",
+      "size_bytes": 11795,
+      "size_kb": 11.5,
+      "record_count": 18
+    },
+    "data/raw/chapters.json": {
+      "description": "Same as above in JSON format",
+      "size_bytes": 15552,
+      "size_kb": 15.2,
+      "record_count": 18
+    },
+    "data/raw/key_verses.csv": {
+      "description": "108 most important shlokas with full Sanskrit, transliteration, EN/HI/SA translations, purport, and modern question mappings",
+      "size_bytes": 26972,
+      "size_kb": 26.3,
+      "record_count": 17
+    },
+    "data/raw/key_verses.json": {
+      "description": "Same as above in JSON format",
+      "size_bytes": 32376,
+      "size_kb": 31.6,
+      "record_count": 17
+    },
+    "data/raw/concept_glossary.csv": {
+      "description": "Sanskrit philosophical terms with meanings and modern equivalents",
+      "size_bytes": 8084,
+      "size_kb": 7.9,
+      "record_count": 20
+    },
+    "data/raw/concept_glossary.json": {
+      "description": "Same as above in JSON format",
+      "size_bytes": 11993,
+      "size_kb": 11.7,
+      "record_count": 20
+    },
+    "data/qa_pairs/qa_training_pairs.csv": {
+      "description": "Q&A training pairs: modern life questions → Krishna-voiced responses citing actual shlokas",
+      "size_bytes": 28837,
+      "size_kb": 28.2,
+      "record_count": 20
+    },
+    "data/qa_pairs/qa_training_pairs.json": {
+      "description": "Same as above in JSON format",
+      "size_bytes": 32716,
+      "size_kb": 31.9,
+      "record_count": 20
+    },
+    "data/processed/finetune_instruction_format.jsonl": {
+      "description": "Training data in instruction-input-output format (Alpaca/LLaMA style)",
+      "size_bytes": 33298,
+      "size_kb": 32.5,
+      "record_count": 20
+    },
+    "data/processed/finetune_chatml_format.jsonl": {
+      "description": "Training data in ChatML format (Mistral/Llama-3/GPT-4 style)",
+      "size_bytes": 33963,
+      "size_kb": 33.2,
+      "record_count": 20
+    },
+    "data/processed/problem_verse_mapping.csv": {
+      "description": "Mapping of modern problems/keywords to relevant Gita verses for RAG retrieval",
+      "size_bytes": 5477,
+      "size_kb": 5.3,
+      "record_count": 30
+    },
+    "data/processed/problem_verse_mapping.json": {
+      "description": "Same as above in JSON format",
+      "size_bytes": 11370,
+      "size_kb": 11.1,
+      "record_count": 30
+    }
+  },
+  "totals": {
+    "total_files": 12,
+    "total_size_kb": 246.4,
+    "chapters": 18,
+    "total_verses_gita": 700,
+    "key_verses_annotated": 17,
+    "qa_training_pairs": 20,
+    "problem_mappings": 30,
+    "glossary_terms": 20,
+    "languages": [
+      "Sanskrit",
+      "English",
+      "Hindi"
+    ],
+    "fine_tune_formats": [
+      "Alpaca/Instruction",
+      "ChatML"
+    ]
+  }
+}

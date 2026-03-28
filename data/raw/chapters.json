@@ -1,0 +1,200 @@
+[
+  {
+    "chapter_number": 1,
+    "name_transliterated": "Arjuna Vishada Yoga",
+    "name_sanskrit": "अर्जुन विषाद योग",
+    "name_english": "The Yoga of Arjuna's Grief",
+    "verse_count": 47,
+    "summary_english": "Arjuna surveys the battlefield of Kurukshetra and, seeing his relatives arrayed against him, is overcome with grief and despondency, refusing to fight.",
+    "summary_hindi": "अर्जुन कुरुक्षेत्र के युद्धक्षेत्र में अपने परिजनों को देखकर विषाद में डूब जाते हैं और युद्ध करने से इनकार कर देते हैं।",
+    "key_themes": "grief, doubt, moral dilemma, attachment, duty conflict",
+    "modern_mapping": "anxiety, fear of failure, paralysis, family conflict"
+  },
+  {
+    "chapter_number": 2,
+    "name_transliterated": "Sankhya Yoga",
+    "name_sanskrit": "सांख्य योग",
+    "name_english": "The Yoga of Knowledge",
+    "verse_count": 72,
+    "summary_english": "Krishna begins his teaching, explaining the immortality of the soul, the nature of duty, and the concept of Nishkama Karma — action without attachment to results.",
+    "summary_hindi": "कृष्ण आत्मा की अमरता, कर्तव्य के स्वरूप और निष्काम कर्म की अवधारणा को समझाते हैं।",
+    "key_themes": "soul immortality, duty, nishkama karma, sthitaprajna, equanimity",
+    "modern_mapping": "career anxiety, fear of death, overthinking, performance pressure"
+  },
+  {
+    "chapter_number": 3,
+    "name_transliterated": "Karma Yoga",
+    "name_sanskrit": "कर्म योग",
+    "name_english": "The Yoga of Action",
+    "verse_count": 43,
+    "summary_english": "Krishna explains that action is superior to inaction. Everyone must work; the wise do so without attachment, as a yajna (sacrifice) for the benefit of all.",
+    "summary_hindi": "कृष्ण समझाते हैं कि कर्म अकर्म से श्रेष्ठ है। सभी को कार्य करना चाहिए, परंतु फल की आसक्ति के बिना।",
+    "key_themes": "selfless action, yajna, duty without attachment, renunciation of fruit",
+    "modern_mapping": "procrastination, laziness, burnout, work-life balance"
+  },
+  {
+    "chapter_number": 4,
+    "name_transliterated": "Jnana Karma Sanyasa Yoga",
+    "name_sanskrit": "ज्ञान कर्म संन्यास योग",
+    "name_english": "The Yoga of Knowledge and Renunciation of Action",
+    "verse_count": 42,
+    "summary_english": "Krishna reveals the ancient lineage of this wisdom, explains the nature of divine incarnations, and describes how knowledge burns all karmas.",
+    "summary_hindi": "कृष्ण इस ज्ञान की दिव्य परंपरा का रहस्य बताते हैं और बताते हैं कि ज्ञान सभी कर्मों को भस्म कर देता है।",
+    "key_themes": "divine incarnation, transmigration, fire of knowledge, wise action",
+    "modern_mapping": "purpose, spiritual awakening, existential crisis, seeking a teacher/guru"
+  },
+  {
+    "chapter_number": 5,
+    "name_transliterated": "Karma Sanyasa Yoga",
+    "name_sanskrit": "कर्म संन्यास योग",
+    "name_english": "The Yoga of Renunciation of Action",
+    "verse_count": 29,
+    "summary_english": "Krishna reconciles karma yoga and jnana yoga, showing that true renunciation is internal — acting in the world without ego or desire.",
+    "summary_hindi": "कृष्ण कर्म योग और ज्ञान योग में सामंजस्य बताते हैं — सच्चा संन्यास आंतरिक है, अहंकार और इच्छा रहित कर्म।",
+    "key_themes": "inner renunciation, equanimity, brahman, liberation through action",
+    "modern_mapping": "ego issues, emotional detachment, inner peace, mindfulness"
+  },
+  {
+    "chapter_number": 6,
+    "name_transliterated": "Dhyana Yoga",
+    "name_sanskrit": "ध्यान योग",
+    "name_english": "The Yoga of Meditation",
+    "verse_count": 47,
+    "summary_english": "Krishna teaches practical techniques of meditation, the qualities of a true yogi, and how to restrain the restless mind.",
+    "summary_hindi": "कृष्ण ध्यान की व्यावहारिक विधियाँ, एक सच्चे योगी के गुण और चंचल मन को नियंत्रित करने के तरीके सिखाते हैं।",
+    "key_themes": "meditation, mind control, yogi, moderation, dhyana",
+    "modern_mapping": "anxiety, insomnia, overthinking, mental health, meditation practice"
+  },
+  {
+    "chapter_number": 7,
+    "name_transliterated": "Jnana Vijnana Yoga",
+    "name_sanskrit": "ज्ञान विज्ञान योग",
+    "name_english": "The Yoga of Knowledge and Wisdom",
+    "verse_count": 30,
+    "summary_english": "Krishna explains his divine nature, the two aspects of his energy (para and apara prakriti), and why few truly know him.",
+    "summary_hindi": "कृष्ण अपनी दिव्य प्रकृति और अपनी दोनों शक्तियों — परा और अपरा प्रकृति — का वर्णन करते हैं।",
+    "key_themes": "divine nature, maya, devotees, knowledge vs wisdom, God's energy",
+    "modern_mapping": "spiritual confusion, seeking God, faith, materialism vs spirituality"
+  },
+  {
+    "chapter_number": 8,
+    "name_transliterated": "Aksara Brahma Yoga",
+    "name_sanskrit": "अक्षर ब्रह्म योग",
+    "name_english": "The Yoga of the Imperishable Brahman",
+    "verse_count": 28,
+    "summary_english": "Krishna explains Brahman, Atman, karma, and the process of dying — how the last thought at death determines the next birth.",
+    "summary_hindi": "कृष्ण ब्रह्म, आत्मा, कर्म और मृत्यु के समय की मनोस्थिति का वर्णन करते हैं जो अगले जन्म को निर्धारित करती है।",
+    "key_themes": "brahman, death and rebirth, last thought, liberation, eternal",
+    "modern_mapping": "fear of death, afterlife beliefs, legacy, preparing for the end"
+  },
+  {
+    "chapter_number": 9,
+    "name_transliterated": "Raja Vidya Raja Guhya Yoga",
+    "name_sanskrit": "राज विद्या राज गुह्य योग",
+    "name_english": "The Yoga of Royal Knowledge and Royal Secret",
+    "verse_count": 34,
+    "summary_english": "Krishna reveals the most secret knowledge: he pervades all creation, yet remains beyond it. Devotion offered with love reaches him regardless of the devotee's status.",
+    "summary_hindi": "कृष्ण सबसे गुप्त ज्ञान प्रकट करते हैं: वे सर्वत्र व्याप्त हैं, फिर भी परे हैं। प्रेम से अर्पित भक्ति उन्हें मिलती है।",
+    "key_themes": "omnipresence, devotion, bhakti, equality, divine love",
+    "modern_mapping": "feeling unworthy, inclusivity, finding God everywhere, love and devotion"
+  },
+  {
+    "chapter_number": 10,
+    "name_transliterated": "Vibhuti Yoga",
+    "name_sanskrit": "विभूति योग",
+    "name_english": "The Yoga of Divine Glories",
+    "verse_count": 42,
+    "summary_english": "Krishna describes his divine manifestations — the vibhutis — explaining that wherever there is excellence, beauty, or power in the world, it is a spark of his glory.",
+    "summary_hindi": "कृष्ण अपनी दिव्य विभूतियों का वर्णन करते हैं — जहाँ भी श्रेष्ठता, सौंदर्य या शक्ति है, वह उनकी महिमा का अंश है।",
+    "key_themes": "divine manifestations, excellence, glory, creator, omnipotence",
+    "modern_mapping": "finding the divine in daily life, awe, creativity, talent"
+  },
+  {
+    "chapter_number": 11,
+    "name_transliterated": "Vishwarupa Darshana Yoga",
+    "name_sanskrit": "विश्वरूप दर्शन योग",
+    "name_english": "The Yoga of the Vision of the Cosmic Form",
+    "verse_count": 55,
+    "summary_english": "Arjuna, granted divine vision, witnesses Krishna's infinite cosmic form — the Vishvarupa — containing all of creation, and is awestruck and humbled.",
+    "summary_hindi": "अर्जुन को दिव्य दृष्टि मिलती है और वे कृष्ण के विश्वरूप का साक्षात्कार करते हैं जिसमें संपूर्ण सृष्टि समाहित है।",
+    "key_themes": "cosmic form, divine vision, awe, surrender, time and destruction",
+    "modern_mapping": "encountering something larger than yourself, humility, overwhelm, awe"
+  },
+  {
+    "chapter_number": 12,
+    "name_transliterated": "Bhakti Yoga",
+    "name_sanskrit": "भक्ति योग",
+    "name_english": "The Yoga of Devotion",
+    "verse_count": 20,
+    "summary_english": "Krishna declares bhakti (devotion) as the highest and most accessible path, and describes the qualities of his dearest devotee.",
+    "summary_hindi": "कृष्ण भक्ति को सर्वोच्च और सबसे सुलभ मार्ग बताते हैं और अपने प्रिय भक्त के गुणों का वर्णन करते हैं।",
+    "key_themes": "devotion, love, qualities of a devotee, accessible spirituality",
+    "modern_mapping": "religious doubt, how to pray, love for God, spiritual practice"
+  },
+  {
+    "chapter_number": 13,
+    "name_transliterated": "Kshetra Kshetrajna Vibhaga Yoga",
+    "name_sanskrit": "क्षेत्र क्षेत्रज्ञ विभाग योग",
+    "name_english": "The Yoga of the Field and Its Knower",
+    "verse_count": 35,
+    "summary_english": "Krishna distinguishes between the body (kshetra, the field) and the soul (kshetrajna, the knower), and explains the qualities of true knowledge.",
+    "summary_hindi": "कृष्ण शरीर (क्षेत्र) और आत्मा (क्षेत्रज्ञ) के बीच भेद करते हैं और सच्चे ज्ञान के गुणों का वर्णन करते हैं।",
+    "key_themes": "body vs soul, self-knowledge, humility, wisdom",
+    "modern_mapping": "identity crisis, who am I, body image, self-understanding"
+  },
+  {
+    "chapter_number": 14,
+    "name_transliterated": "Gunatraya Vibhaga Yoga",
+    "name_sanskrit": "गुणत्रय विभाग योग",
+    "name_english": "The Yoga of the Division of Three Gunas",
+    "verse_count": 27,
+    "summary_english": "Krishna explains the three gunas — sattva (clarity), rajas (passion), and tamas (inertia) — that bind the soul to the body and the world.",
+    "summary_hindi": "कृष्ण तीन गुणों — सत्त्व, रजस और तमस — का वर्णन करते हैं जो आत्मा को देह और संसार से बाँधते हैं।",
+    "key_themes": "three gunas, sattva, rajas, tamas, transcendence",
+    "modern_mapping": "personality types, laziness, overactivity, achieving clarity"
+  },
+  {
+    "chapter_number": 15,
+    "name_transliterated": "Purushottama Yoga",
+    "name_sanskrit": "पुरुषोत्तम योग",
+    "name_english": "The Yoga of the Supreme Person",
+    "verse_count": 20,
+    "summary_english": "Krishna describes the cosmic Ashvattha tree (symbol of material existence), the supreme soul, and declares himself Purushottama — beyond both perishable and imperishable.",
+    "summary_hindi": "कृष्ण संसार रूपी अश्वत्थ वृक्ष और परम आत्मा का वर्णन करते हैं और स्वयं को पुरुषोत्तम घोषित करते हैं।",
+    "key_themes": "material world, supreme soul, purushottama, liberation",
+    "modern_mapping": "materialism trap, spiritual liberation, higher purpose"
+  },
+  {
+    "chapter_number": 16,
+    "name_transliterated": "Daivasura Sampad Vibhaga Yoga",
+    "name_sanskrit": "दैवासुर सम्पद विभाग योग",
+    "name_english": "The Yoga of the Division of Divine and Demonic Qualities",
+    "verse_count": 24,
+    "summary_english": "Krishna lists the divine qualities that lead to liberation and the demonic qualities that lead to bondage, urging Arjuna to follow scripture.",
+    "summary_hindi": "कृष्ण दैवीय गुणों की सूची देते हैं जो मुक्ति की ओर ले जाते हैं और आसुरी गुणों की जो बंधन की ओर।",
+    "key_themes": "virtue, vice, divine qualities, demonic tendencies, dharma",
+    "modern_mapping": "moral character, toxic behavior, ethics, good vs evil choices"
+  },
+  {
+    "chapter_number": 17,
+    "name_transliterated": "Shraddhatraya Vibhaga Yoga",
+    "name_sanskrit": "श्रद्धात्रय विभाग योग",
+    "name_english": "The Yoga of the Division of Threefold Faith",
+    "verse_count": 28,
+    "summary_english": "Krishna classifies faith, food, sacrifice, austerity, and charity according to the three gunas — showing how one's inner nature shapes all outer actions.",
+    "summary_hindi": "कृष्ण श्रद्धा, भोजन, यज्ञ, तप और दान को तीन गुणों के अनुसार वर्गीकृत करते हैं।",
+    "key_themes": "faith, food, worship, austerity, charity, gunas in daily life",
+    "modern_mapping": "lifestyle choices, diet, habits, giving, spiritual discipline"
+  },
+  {
+    "chapter_number": 18,
+    "name_transliterated": "Moksha Sanyasa Yoga",
+    "name_sanskrit": "मोक्ष संन्यास योग",
+    "name_english": "The Yoga of Liberation and Renunciation",
+    "verse_count": 78,
+    "summary_english": "The grand conclusion: Krishna summarizes all teachings — duty, knowledge, devotion, renunciation. He urges Arjuna to surrender completely to him, promising liberation.",
+    "summary_hindi": "महान उपसंहार: कृष्ण सभी शिक्षाओं का सार देते हैं — कर्तव्य, ज्ञान, भक्ति, संन्यास।",
+    "key_themes": "renunciation, liberation, surrender, final teaching, moksha",
+    "modern_mapping": "life summary, legacy, final decisions, letting go, complete surrender"
+  }
+]
