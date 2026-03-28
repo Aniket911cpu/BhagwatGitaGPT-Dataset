@@ -1,14 +1,14 @@
 
 --- Checking finetune_chatml_format.jsonl ---
-Total records: 1575
+Total records: 6825
 No structural issues found.
 
 --- Checking finetune_instruction_format.jsonl ---
-Total records: 1575
+Total records: 6825
 No structural issues found.
 
 --- Checking qa_training_pairs.json ---
-Total records: 1575
+Total records: 6825
 No structural issues found.
 
 --- Checking problem_verse_mapping.json ---
