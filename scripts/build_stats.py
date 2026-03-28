@@ -4,7 +4,7 @@ import json, csv, os, glob
 stats = {
     "dataset_name": "GitaGPT: Bhagavad Gita Oracle Dataset",
     "version": "1.0.0",
-    "created_by": "AlphaByteCore",
+    "created_by": "MasterAniket",
     "purpose": "Fine-tuning and RAG for GitaGPT — an AI oracle grounded in the Bhagavad Gita",
     "files": {},
     "totals": {}

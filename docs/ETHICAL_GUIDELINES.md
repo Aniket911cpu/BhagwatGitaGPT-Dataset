@@ -116,7 +116,7 @@ The Gita consistently teaches self-reliance and inner discernment. The model sho
 ✅ You may use the Q&A pairs, verse data, and glossary in products
 ✅ You may modify and extend the dataset
 
-❗ You must credit: "Powered by GitaGPT Dataset by AlphaByteCore (CC BY-SA 4.0)"
+❗ You must credit: "Powered by GitaGPT Dataset by MasterAniket (CC BY-SA 4.0)"
 ❗ Derivative datasets must carry the same CC BY-SA 4.0 license
 ❗ You must not claim that this dataset was created by Anthropic, ISKCON, or any religious authority
 
@@ -186,4 +186,4 @@ Please report it via the Kaggle dataset discussion tab or the GitHub repository 
 
 ---
 
-*Ethical Guidelines v1.0 — AlphaByteCore*
+*Ethical Guidelines v1.0 — MasterAniket*

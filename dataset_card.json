@@ -4,10 +4,10 @@
     "short_name": "gitagpt-dataset",
     "version": "1.0.0",
     "description": "A structured, multilingual dataset for building AI systems grounded in the Bhagavad Gita's 700 shlokas. Includes annotated verses, Q&A training pairs, problem-to-verse mappings, Sanskrit glossary, and fine-tuning ready JSONL files in Alpaca and ChatML formats.",
-    "homepage": "https://www.kaggle.com/datasets/alphabytecore/gitagpt-dataset",
-    "repository": "https://github.com/alphabytecore/gitagpt-dataset",
+    "homepage": "https://www.kaggle.com/datasets/MasterAniket/gitagpt-dataset",
+    "repository": "https://github.com/MasterAniket/gitagpt-dataset",
     "paper": null,
-    "citation": "@dataset{gitagpt_dataset_2025, title={GitaGPT Dataset: Bhagavad Gita Oracle Training Corpus}, author={AlphaByteCore}, year={2025}, version={1.0.0}}",
+    "citation": "@dataset{gitagpt_dataset_2025, title={GitaGPT Dataset: Bhagavad Gita Oracle Training Corpus}, author={MasterAniket}, year={2025}, version={1.0.0}}",
     "license": "cc-by-sa-4.0",
     "task_categories": [
       "text-generation",
@@ -21,7 +21,11 @@
       "language-modeling",
       "information-retrieval"
     ],
-    "language": ["sa", "en", "hi"],
+    "language": [
+      "sa",
+      "en",
+      "hi"
+    ],
     "language_details": {
       "sa": "Sanskrit (Devanagari script + IAST transliteration)",
       "en": "English",
@@ -41,7 +45,7 @@
       "krishna",
       "slm",
       "gitagpt",
-      "alphabytecore"
+      "MasterAniket"
     ]
   },
   "splits": {
@@ -63,21 +67,60 @@
   },
   "features": {
     "qa_pairs": {
-      "qa_id": {"dtype": "string", "description": "Unique Q&A pair identifier"},
-      "category": {"dtype": "string", "description": "Problem category"},
-      "user_question": {"dtype": "string", "description": "Modern life question"},
-      "krishna_response": {"dtype": "string", "description": "Response in Krishna's voice with shloka"},
-      "verse_id": {"dtype": "string", "description": "Referenced Gita verse ID"},
-      "language": {"dtype": "string", "description": "en or hi"}
+      "qa_id": {
+        "dtype": "string",
+        "description": "Unique Q&A pair identifier"
+      },
+      "category": {
+        "dtype": "string",
+        "description": "Problem category"
+      },
+      "user_question": {
+        "dtype": "string",
+        "description": "Modern life question"
+      },
+      "krishna_response": {
+        "dtype": "string",
+        "description": "Response in Krishna's voice with shloka"
+      },
+      "verse_id": {
+        "dtype": "string",
+        "description": "Referenced Gita verse ID"
+      },
+      "language": {
+        "dtype": "string",
+        "description": "en or hi"
+      }
     },
     "key_verses": {
-      "verse_id": {"dtype": "string", "description": "BG_{chapter}_{verse} format"},
-      "sanskrit_devanagari": {"dtype": "string", "description": "Original Sanskrit text"},
-      "transliteration": {"dtype": "string", "description": "IAST Roman transliteration"},
-      "translation_english": {"dtype": "string", "description": "English translation"},
-      "translation_hindi": {"dtype": "string", "description": "Hindi translation"},
-      "modern_question_mapping": {"dtype": "string", "description": "Modern problems addressed"},
-      "difficulty_level": {"dtype": "string", "description": "foundational/intermediate/advanced"}
+      "verse_id": {
+        "dtype": "string",
+        "description": "BG_{chapter}_{verse} format"
+      },
+      "sanskrit_devanagari": {
+        "dtype": "string",
+        "description": "Original Sanskrit text"
+      },
+      "transliteration": {
+        "dtype": "string",
+        "description": "IAST Roman transliteration"
+      },
+      "translation_english": {
+        "dtype": "string",
+        "description": "English translation"
+      },
+      "translation_hindi": {
+        "dtype": "string",
+        "description": "Hindi translation"
+      },
+      "modern_question_mapping": {
+        "dtype": "string",
+        "description": "Modern problems addressed"
+      },
+      "difficulty_level": {
+        "dtype": "string",
+        "description": "foundational/intermediate/advanced"
+      }
     }
   },
   "statistics": {
@@ -105,6 +148,8 @@
     "Promoting violence using religious authority",
     "Discriminatory applications"
   ],
-  "dataset_card_authors": ["AlphaByteCore"],
-  "dataset_card_contact": "alphabytecore@gmail.com"
+  "dataset_card_authors": [
+    "MasterAniket"
+  ],
+  "dataset_card_contact": "MasterAniket@gmail.com"
 }

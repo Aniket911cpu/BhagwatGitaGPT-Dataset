@@ -1,10 +1,10 @@
-id: alphabytecore/gitagpt-dataset
+id: MasterAniket/gitagpt-dataset
 title: "GitaGPT Dataset — Bhagavad Gita Oracle Training Corpus"
 subtitle: "Structured multilingual dataset for fine-tuning AI oracles grounded in the Bhagavad Gita (Sanskrit/English/Hindi)"
 description: |
   A comprehensive, production-ready dataset for building AI systems grounded in the Bhagavad Gita's 700 shlokas.
   
-  Built for GitaGPT by AlphaByteCore — an AI life guidance oracle that maps modern problems to authentic Gita verses and responds in Krishna's voice.
+  Built for GitaGPT by MasterAniket — an AI life guidance oracle that maps modern problems to authentic Gita verses and responds in Krishna's voice.
   
   **What's inside:**
   - 18 chapters with Sanskrit names, English/Hindi summaries, themes, and modern mappings
@@ -37,13 +37,13 @@ keywords:
   - llm
   - small-language-model
   - gitagpt
-  - alphabytecore
+  - MasterAniket
   - multilingual
   - religion
   - yoga
 
 collaborators:
-  - username: alphabytecore
+  - username: MasterAniket
     role: owner
 
 resources:

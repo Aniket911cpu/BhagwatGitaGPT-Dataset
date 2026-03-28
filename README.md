@@ -11,7 +11,7 @@
 
 | Property | Value |
 |---|---|
-| **Creator** | AlphaByteCore |
+| **Creator** | MasterAniket |
 | **Version** | 1.0.0 |
 | **License** | CC BY-SA 4.0 |
 | **Languages** | Sanskrit · English · Hindi |
@@ -26,7 +26,7 @@
 
 The Bhagavad Gita is one of humanity's most profound philosophical texts — 700 verses covering duty, consciousness, action, death, love, and liberation, delivered by Krishna to a grief-stricken Arjuna on the eve of battle. Its wisdom maps directly to every major challenge of modern life.
 
-This dataset was built to power **GitaGPT by AlphaByteCore** — an AI oracle that:
+This dataset was built to power **GitaGPT by MasterAniket** — an AI oracle that:
 - Receives a modern life question (in English, Hindi, or transliterated Sanskrit)
 - Retrieves the most contextually relevant Gita verse
 - Responds in Krishna's voice, citing the original Sanskrit shloka + transliteration + meaning
@@ -281,10 +281,10 @@ If you use this dataset in research or products, please cite:
 ```bibtex
 @dataset{gitagpt_dataset_2025,
   title     = {GitaGPT Dataset: Bhagavad Gita Oracle Training Corpus},
-  author    = {AlphaByteCore},
+  author    = {MasterAniket},
   year      = {2025},
   version   = {1.0.0},
-  url       = {https://www.kaggle.com/datasets/alphabytecore/gitagpt-dataset},
+  url       = {https://www.kaggle.com/datasets/MasterAniket/gitagpt-dataset},
   license   = {CC BY-SA 4.0}
 }
 ```
@@ -298,7 +298,7 @@ This dataset is released under **Creative Commons Attribution-ShareAlike 4.0 Int
 - ✅ Free to use for research and commercial applications
 - ✅ Free to modify and extend
 - ✅ Fine-tuning commercial models is permitted
-- ❗ Attribution required: "GitaGPT Dataset by AlphaByteCore"
+- ❗ Attribution required: "GitaGPT Dataset by MasterAniket"
 - ❗ Derivative datasets must use the same license
 
 The Bhagavad Gita itself is in the **public domain**. Sanskrit text sourced from public domain repositories.
@@ -317,4 +317,4 @@ This dataset draws on the timeless wisdom of:
 
 ---
 
-*Built with devotion by AlphaByteCore | [GitHub](https://github.com/alphabytecore) | [GitaGPT App](https://gitagpt.alphabytecore.com)*
+*Built with devotion by MasterAniket | [GitHub](https://github.com/MasterAniket) | [GitaGPT App](https://gitagpt.MasterAniket.com)*

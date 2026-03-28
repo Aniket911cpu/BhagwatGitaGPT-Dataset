@@ -1,0 +1,16 @@
+
+--- Checking finetune_chatml_format.jsonl ---
+Total records: 20
+No structural issues found.
+
+--- Checking finetune_instruction_format.jsonl ---
+Total records: 20
+No structural issues found.
+
+--- Checking qa_training_pairs.json ---
+Total records: 20
+No structural issues found.
+
+--- Checking problem_verse_mapping.json ---
+Total records: 30
+No structural issues found.

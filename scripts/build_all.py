@@ -56,7 +56,7 @@ def print_summary():
         print(f"{'='*60}\n")
 
 if __name__ == "__main__":
-    print("\n🕉️  GitaGPT Dataset Builder — AlphaByteCore")
+    print("\n🕉️  GitaGPT Dataset Builder — MasterAniket")
     print("Building all dataset files...\n")
 
     check_dirs()
